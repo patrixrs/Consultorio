@@ -8,10 +8,7 @@ import util.Console;
 import util.DateUtil;
 import view.menu.PacienteMenu;
 
-/**
- *
- * @author lhries
- */
+
 public class PacienteUI {
 
     private RepositorioPacientes lista;

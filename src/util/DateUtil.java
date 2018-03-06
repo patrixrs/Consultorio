@@ -8,10 +8,7 @@ import java.time.format.DateTimeFormatter;
 import java.time.format.DateTimeParseException;
 import java.time.format.ResolverStyle;
 
-/**
- *
- * @author lhries
- */
+
 public class DateUtil {
     //withResolverStyle(STRICT): força a data e hora trabalharem corretamente (ex: mes pode ser só 1 a 12)
     public static DateTimeFormatter formatadorData = 

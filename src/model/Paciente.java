@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 
 package model;
 
@@ -10,10 +6,7 @@ import java.time.LocalDate;
 import java.util.Objects;
 import util.DateUtil;
 
-/**
- *
- * @author lhries
- */
+
 public class Paciente {
     private String rg, nome;
     private LocalDate dataNascimento;
@@ -23,7 +16,6 @@ public class Paciente {
         this.rg = rg;
         this.dataNascimento = dataNascimento;
     }
-
 
     public String getNome() {
         return nome;
@@ -63,9 +55,6 @@ public class Paciente {
     public String toString() {
         return rg+" - "+nome + ", " + DateUtil.dateToString(dataNascimento);
     }
-    
-    
-    
     
     
 }

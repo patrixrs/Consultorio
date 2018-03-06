@@ -7,10 +7,7 @@ import repositorio.RepositorioPacientes;
 import util.Console;
 import view.menu.MainMenu;
 
-/**
- *
- * @author lhries
- */
+
 public class MainUI {
     private RepositorioPacientes listaPacientes;
     private RepositorioMedicamentos listaMedicamentos;

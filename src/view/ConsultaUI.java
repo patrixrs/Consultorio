@@ -10,10 +10,7 @@ import util.DateUtil;
 import view.menu.ConsultaMenu;
 import view.menu.PacienteMenu;
 
-/**
- *
- * @author lhries
- */
+
 public class ConsultaUI {
 
     private RepositorioPacientes listaPacientes;

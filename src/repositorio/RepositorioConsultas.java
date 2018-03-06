@@ -4,9 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import model.Consulta;
 
-/**
- * @author lhries
- */
+
 public class RepositorioConsultas {
     private List<Consulta> listaConsultas;
 

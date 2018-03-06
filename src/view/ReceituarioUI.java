@@ -12,10 +12,7 @@ import repositorio.RepositorioMedicamentos;
 import util.Console;
 import view.menu.ReceituarioMenu;
 
-/**
- *
- * @author lhries
- */
+
 public class ReceituarioUI {
 
     private Consulta consulta;

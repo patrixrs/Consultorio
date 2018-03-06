@@ -4,10 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import model.Paciente;
 
-/**
- *
- * @author lhries
- */
+
 public class RepositorioPacientes {
 
     private List<Paciente> pacientes;

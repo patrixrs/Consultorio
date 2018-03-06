@@ -5,10 +5,7 @@ import repositorio.RepositorioMedicamentos;
 import util.Console;
 import view.menu.MedicamentoMenu;
 
-/**
- *
- * @author lhries
- */
+
 public class MedicamentoUI {
     private RepositorioMedicamentos listaMedicamentos;
 

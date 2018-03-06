@@ -1,9 +1,6 @@
 package model;
 
-/**
- *
- * @author lhries
- */
+
 public class Medicamento {
     private static int CODIGO_GERADO=1;
     private int codigo;
